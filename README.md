@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @wkan17012021 (aka the Dogue 🐶)
-- 👀 I’m interested in web and software dev: I'm learning HTML, CSS (SASS, Bootstrap5, Materialize), a bit of CMS, plain JS, SQL, Python
+- 🐾 Hi, I’m Will, aka. the Dogue 🐶
+- 👀 I’m interested in web and software dev: I have a base knowledge (community-taught and bootcamp-trained) with HTML, CSS, Bootstrap, plain JS, SQL, MongoDB and Python.
+- 📚 I have been dabbling with wireframe designs, CSS (SASS, Materialize), React, PHP, CMS (WP, Drupal) 
 - 💞️ I’m looking to collaborate on open-source projs suitable for newbies
-- 📫 How to reach me: message me here!
+- 📫 How to reach me: drop me a 🦴 here
