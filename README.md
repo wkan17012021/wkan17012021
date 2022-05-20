@@ -1,5 +1,5 @@
 - 🐾 Hi, I’m Will, aka. the Dogue 🐶
-- 👀 I’m interested in web and software dev: I have a base knowledge (community-taught and bootcamp-trained) with HTML, CSS, Bootstrap, plain JS, SQL, MongoDB and Python.
+- 👀 I’m interested in web and software dev: I have a base knowledge (community-taught and bootcamp-trained) with HTML, CSS, Bootstrap, plain JS, SQL, MongoDB and Python. I work for a non-profit in London helping to maintain a Drupal website.
 - 📚 I have been dabbling with wireframe designs, CSS (SASS, Materialize), React, PHP, CMS (WP, Drupal) 
 - 💞️ I’m looking to collaborate on open-source projs suitable for newbies
 - 📫 How to reach me: drop me a 🦴 here
